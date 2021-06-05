@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldrinandrew
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in MERN Stack Development, UI/UX Design
 - 🌱 I’m currently learning Web Designing & Python
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
