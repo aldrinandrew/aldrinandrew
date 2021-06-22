@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aldrinandrew
+- 👋 Hi, I’m Aldrin Andrew
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning Web Designing & Python
 - 💞️ I’m looking to collaborate basic projects in Python and Front-End
