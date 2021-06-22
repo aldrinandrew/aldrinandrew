@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aldrinandrew
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning Web Designing & Python
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate basic projects in Python and Front-End
+- 📫 Feel free to connect me on LinkediIn https://www.linkedin.com/in/aldrinandrew/
 
 <!---
 aldrinandrew/aldrinandrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
