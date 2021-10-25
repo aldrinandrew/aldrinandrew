@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aldrin Andrew</h1>
+
+![image](https://user-images.githubusercontent.com/83177975/138706339-88f16bb3-5498-4747-b9d2-1b09636d36d7.png)
+
 <h3 align="center">A passionate Python Developer</h3>
 
 - 🔭 I’m currently working on [Kerala IoT Challenge_ Level 2](https://aldrinandrew.me/Kerala_IoT_Challenge/)
